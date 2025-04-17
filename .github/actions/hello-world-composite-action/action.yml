@@ -30,6 +30,5 @@ runs:
         GITHUB_ACTION_PATH: ${{ github.action_path }}
 
     - name: Run goodbye.sh
-      run: |
-        .github/actions/hello-world-composite-action/goodbye_subdir.sh
+      run: goodbye_subdir.sh
       shell: bash
