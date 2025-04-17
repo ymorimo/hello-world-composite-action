@@ -31,5 +31,5 @@ runs:
 
     - name: Run goodbye.sh
       run: |
-        .github/actions/hello-world-composite-action/goodbye.sh
+        .github/actions/hello-world-composite-action/goodbye_subdir.sh
       shell: bash
