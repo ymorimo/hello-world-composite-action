@@ -1,1 +1,1 @@
-echo Goodbye hello-world-composite-action (subdir)
+echo 'Goodbye hello-world-composite-action (subdir)'
